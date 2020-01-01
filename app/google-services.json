@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314703213443",
+    "firebase_url": "https://android-examples-dcebe.firebaseio.com",
+    "project_id": "android-examples-dcebe",
+    "storage_bucket": "android-examples-dcebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314703213443:android:a222afe0166213c7f27cb6",
+        "android_client_info": {
+          "package_name": "com.example.firebasecurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314703213443-4vlc4l0qd1mjhogpu6ahjf49o0pjkner.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecurso",
+            "certificate_hash": "6e1d622babac5bb0fa2c524301630d96bc77b99f"
+          }
+        },
+        {
+          "client_id": "314703213443-468l5asj921988dv0d2tfa0nnk5c6pel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJE43OnOx2k9CImrdXGI4k7AgrOl7l3AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314703213443-468l5asj921988dv0d2tfa0nnk5c6pel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

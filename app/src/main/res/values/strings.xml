@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseCurso</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="sign_in">Sing In</string>
+    <string name="facebook_app_id">526679484859792</string>
+    <string name="fb_login_protocol_scheme">fb526679484859792</string>
+
+
+</resources>
